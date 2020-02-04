@@ -13,3 +13,4 @@ jobs:
         echo 'Try to cancel me, I dare you'
         sleep 360
         echo 'Finished sleeping'
+ 
